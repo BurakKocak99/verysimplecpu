@@ -1,5 +1,5 @@
 # verysimplecpu
-Verilog Project
+## CSE224 Project
 ## Instruction Set Architecture (ISA) - v1
 
 Each VerySimpleCPU instruction word has a fixed length of 32-bit.
