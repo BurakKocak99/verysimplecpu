@@ -1,4 +1,4 @@
-# verysimplecpu
+# VerySimpleCPU
 ## CSE224 Project
 ## Instruction Set Architecture (ISA) - v1
 
